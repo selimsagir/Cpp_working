@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1509289277 source:c:\users\selim-pc\google drive\programming working place\c++\object_oriented\example_vector_1\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Student.h"
+
+1509288931 c:\users\selim-pc\google drive\programming working place\c++\object_oriented\example_vector_1\student.h
+	<iostream>
+	<string>
+
+1509289297 source:c:\users\selim-pc\google drive\programming working place\c++\object_oriented\example_vector_1\student.cpp
+	"Student.h"
+
