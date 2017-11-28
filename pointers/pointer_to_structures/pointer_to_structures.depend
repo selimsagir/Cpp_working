@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511711903 source:c:\users\selim-pc\google drive\programming working place\c++\pointers\pointer_to_structures\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
