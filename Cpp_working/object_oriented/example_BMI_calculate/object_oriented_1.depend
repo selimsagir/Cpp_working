@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509282039 source:c:\users\selim-pc\google drive\programming working place\c++\object_oriented\object_oriented_1\bmi.cpp
+	"BMI.h"
+
+1509282085 c:\users\selim-pc\google drive\programming working place\c++\object_oriented\object_oriented_1\bmi.h
+	<iostream>
+	<string>
+
