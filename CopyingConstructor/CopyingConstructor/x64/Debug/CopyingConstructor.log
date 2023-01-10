@@ -1,0 +1,3 @@
+﻿  CopyingConstructor.cpp
+C:\Users\selim\Documents\CppSeries\CopyingConstructor\CopyingConstructor\CopyingConstructor.cpp(14,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  CopyingConstructor.vcxproj -> C:\Users\selim\Documents\CppSeries\CopyingConstructor\x64\Debug\CopyingConstructor.exe
