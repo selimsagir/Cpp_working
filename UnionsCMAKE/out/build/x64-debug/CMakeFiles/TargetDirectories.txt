@@ -1,0 +1,5 @@
+C:/Users/selim/Documents/CppSeries/UnionsCMAKE/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/selim/Documents/CppSeries/UnionsCMAKE/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/selim/Documents/CppSeries/UnionsCMAKE/out/build/x64-debug/UnionsCMAKE/CMakeFiles/UnionsCMAKE.dir
+C:/Users/selim/Documents/CppSeries/UnionsCMAKE/out/build/x64-debug/UnionsCMAKE/CMakeFiles/edit_cache.dir
+C:/Users/selim/Documents/CppSeries/UnionsCMAKE/out/build/x64-debug/UnionsCMAKE/CMakeFiles/rebuild_cache.dir
