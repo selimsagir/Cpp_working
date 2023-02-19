@@ -1,3 +1,16 @@
+/*
+*  This is lesson for iterators in C++
+*  Quick notes;
+*  1.. For array and basic data types C type iteration with the for loop is enough
+*  2.. However for has map or other types iterators are must.
+*  3.. there is itarator and const_iterator I have used in this examples but there is more
+*  4.. Using "using" keyword is very useful her as we can see in the line 
+*  "using ScoreMap = std::unordered_map<std::string, int>;" otherwise we should use this expression 
+*  in the for loop.
+*/
+
+
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>
@@ -38,7 +51,7 @@ int main()
 		std::cout << key << "," << value << std::endl;
 	}
 	std::cout << std::endl;
-	// C++ 17 
+	// This type of iteration is only available after C++ 17 , or newer.
 	for (auto [key, value] : my_map) {
 		std::cout << key << "," << value << std::endl;
 	}
