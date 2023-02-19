@@ -1,7 +1,10 @@
 #include <iostream>
 #include <array>
 
-
+/**
+ *  This is a small library for the arrays
+ * TODO: put the class to header.
+*/
 template< typename T, size_t S>
 class Array
 {
@@ -22,7 +25,6 @@ private:
     T m_Data[S];
 
 };
-
 
 
 int main()
